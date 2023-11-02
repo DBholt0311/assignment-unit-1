@@ -11,3 +11,11 @@
 /* Change the font-family of your list */
 
 /* Add a background color to the footer element */
+
+#header {
+    background-color: crimson;
+}
+
+.main {
+    background-color: cyan;
+}
